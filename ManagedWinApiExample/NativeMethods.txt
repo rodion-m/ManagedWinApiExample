@@ -1,0 +1,4 @@
+﻿MessageBox
+GetForegroundWindow
+EnumWindows
+GetWindowText
